@@ -1,2 +1,2 @@
 # RPCGEN
-Simple addition example
+Addition program to illustrate RPC.
